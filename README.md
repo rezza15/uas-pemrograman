@@ -168,6 +168,6 @@ while True:
 ```
 ### HASIL OUTPUT :
 ![gambar 1](ss/ss0.png) <p>
-![gambar 2](ss/ss1.PNG) <p>
-![gambar 3](ss/ss2.PNG) <p>
-![gambar 4](ss/ss3) <p>
+![gambar 2](ss/ss1.png) <p>
+![gambar 3](ss/ss2.png) <p>
+![gambar 4](ss/ss3.png) <p>
